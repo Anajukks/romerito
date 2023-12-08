@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+
+.header{
+    height: 120px;
+    background-color: cornflowerblue;
+}
+
+.content p{
+    border-bottom: 1px solid black;
+}
